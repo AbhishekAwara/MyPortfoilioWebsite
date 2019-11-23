@@ -1444,7 +1444,7 @@ img.svg{
 	right: 0px;
 	z-index: 22;
 }
-.abhi_tm_news_wrap .arlo_tm_list_wrap .inner_list{
+.abhi_tm_news_wrap .abhi_tm_list_wrap .inner_list{
 	background-color: #fff;
 	border-radius: 3px;
 }
