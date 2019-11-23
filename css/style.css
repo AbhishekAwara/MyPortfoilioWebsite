@@ -5,26 +5,26 @@
 /*	This file is made for CURRENT TEMPLATE
 
 
-	01) ARLO BASE
-	02) ARLO CONTENT
-	03) ARLO ABOUT
-	04) ARLO SERVICES
-	05) ARLO COUNTERBOX
-	06) ARLO PORTFOLIO
-	07) ARLO TESTIMONIALS
-	08) ARLO NEWS
-	09) ARLO CONTACT
-	09) ARLO CONTACT
-	10) ARLO TO TOP
-	11) ARLO PARTICLE HOMEPAGE
-	12) ARLO RIPPLE HOMEPAGE
-	13) ARLO PORTFOLIO SINGLE
-	14) ARLO MOBILE HEADER
-    15) ARLO MEDIA QUERIES (FOR SMALL DEVICES)
+	01) abhi BASE
+	02) abhi CONTENT
+	03) abhi ABOUT
+	04) abhi SERVICES
+	05) abhi COUNTERBOX
+	06) abhi PORTFOLIO
+	07) abhi TESTIMONIALS
+	08) abhi NEWS
+	09) abhi CONTACT
+	09) abhi CONTACT
+	10) abhi TO TOP
+	11) abhi PARTICLE HOMEPAGE
+	12) abhi RIPPLE HOMEPAGE
+	13) abhi PORTFOLIO SINGLE
+	14) abhi MOBILE HEADER
+    15) abhi MEDIA QUERIES (FOR SMALL DEVICES)
 
 
 /*---------------------------------------------------*/
-/*	01) ARLO BASE
+/*	01) abhi BASE
 /*---------------------------------------------------*/
 
 html {
@@ -139,7 +139,7 @@ img.svg{
 .abhi_tm_preloader.loaded:after{height: 0%;}
 
 /*---------------------------------------------------*/
-/*	02) ARLO CONTENT
+/*	02) abhi CONTENT
 /*---------------------------------------------------*/
 
 .abhi_tm_leftpart_wrap{
@@ -500,7 +500,7 @@ img.svg{
 }
 
 /*---------------------------------------------------*/
-/*	03) ARLO ABOUT
+/*	03) abhi ABOUT
 /*---------------------------------------------------*/
 
 .abhi_tm_title_holder{
@@ -960,7 +960,7 @@ img.svg{
 .abhi_tm_mini_title_holder.contact h4{margin-bottom:30px;}
 
 /*---------------------------------------------------*/
-/*	04) ARLO SERVICES
+/*	04) abhi SERVICES
 /*---------------------------------------------------*/
 
 .abhi_tm_services_wrap{
@@ -1038,7 +1038,7 @@ img.svg{
 }
 
 /*---------------------------------------------------*/
-/*	05) ARLO COUNTERBOX
+/*	05) abhi COUNTERBOX
 /*---------------------------------------------------*/
 
 .abhi_tm_counter_wrap{
@@ -1111,7 +1111,7 @@ img.svg{
 }
 
 /*---------------------------------------------------*/
-/*	06) ARLO PORTFOLIO
+/*	06) abhi PORTFOLIO
 /*---------------------------------------------------*/
 
 .abhi_tm_title_holder.portfolio{padding-bottom: 90px;}
@@ -1234,7 +1234,7 @@ img.svg{
 }
 
 /*---------------------------------------------------*/
-/*	07) ARLO TESTIMONIALS
+/*	07) abhi TESTIMONIALS
 /*---------------------------------------------------*/
 
 .abhi_tm_testimonials_wrapper_all{
@@ -1383,7 +1383,7 @@ img.svg{
 .abhi_tm_universal_box_wrap .content.testimonial{padding: 82px 0px 90px 0px;}
 
 /*---------------------------------------------------*/
-/*	08) ARLO NEWS
+/*	08) abhi NEWS
 /*---------------------------------------------------*/
 
 .abhi_tm_list_wrap{
@@ -1444,7 +1444,7 @@ img.svg{
 	right: 0px;
 	z-index: 22;
 }
-.abhi_tm_news_wrap .arlo_tm_list_wrap .inner_list{
+.abhi_tm_news_wrap .abhi_tm_list_wrap .inner_list{
 	background-color: #fff;
 	border-radius: 3px;
 }
@@ -1663,7 +1663,7 @@ img.svg{
 }
 #abhi_tm_popup_blog .definition p{color: #333;}
 #abhi_tm_popup_blog .read_more{display: none;}
-#abhi_tm_popup_blog .arlo_tm_popup_share_wrap{
+#abhi_tm_popup_blog .abhi_tm_popup_share_wrap{
 	display: block;
 	width: 100%;
 	height: auto;
@@ -1697,7 +1697,7 @@ img.svg{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-#abhi_tm_popup_blog .arlo_tm_popup_share_wrap ul li a:hover{color: #BD0A0D;}
+#abhi_tm_popup_blog .abhi_tm_popup_share_wrap ul li a:hover{color: #BD0A0D;}
 #abhi_tm_popup_blog .close{
 	position: absolute;
 	top: 30px;
@@ -1737,7 +1737,7 @@ img.svg{
 }
 
 /*---------------------------------------------------*/
-/*	09) ARLO CONTACT
+/*	09) abhi CONTACT
 /*---------------------------------------------------*/
 
 .abhi_tm_contact_wrap_all{
@@ -1978,7 +1978,7 @@ img.svg{
 }
 
 /*---------------------------------------------------*/
-/*	11) ARLO PARTICLE HOMEPAGE
+/*	11) abhi PARTICLE HOMEPAGE
 /*---------------------------------------------------*/
 
 #particles-js {
@@ -2005,7 +2005,7 @@ img.svg{
 }
 
 /*---------------------------------------------------*/
-/*	12) ARLO RIPPLE HOMEPAGE
+/*	12) abhi RIPPLE HOMEPAGE
 /*---------------------------------------------------*/
 
 .abhi_tm_ripple_wrap{
@@ -2033,7 +2033,7 @@ img.svg{
 
 
 /*---------------------------------------------------*/
-/*	 ARLO INTRO_PAGE
+/*	 abhi INTRO_PAGE
 /*---------------------------------------------------*/
 
 .abhi_tm_intro_universal_bg_wrap{
@@ -2253,7 +2253,7 @@ img.svg{
 }
 
 /*---------------------------------------------------*/
-/*	13) ARLO PORTFOLIO SINGLE
+/*	13) abhi PORTFOLIO SINGLE
 /*---------------------------------------------------*/
 
 .abhi_tm_portfolio_single_wrap{
@@ -2374,7 +2374,7 @@ img.svg{
 .abhi_tm_portfolio_single_wrap .pagination_wrap a:hover{color: #E3872D;}
 
 /*---------------------------------------------------*/
-/*	14) ARLO MOBILE HEADER
+/*	14) abhi MOBILE HEADER
 /*---------------------------------------------------*/
 
 .abhi_tm_mobile_header_wrap{
@@ -2443,7 +2443,7 @@ img.svg{
 	        border-radius: 4px;
 }
 .abhi_tm_trigger .hamburger-inner::before,
-.arlo_tm_trigger .hamburger-inner::after{
+.abhi_tm_trigger .hamburger-inner::after{
     content: "";
     display: block;
 }
@@ -2537,7 +2537,7 @@ img.svg{
 }
 
 /*---------------------------------------------------*/
-/*	15) ARLO MEDIA QUERIES (FOR SMALL DEVIVES)
+/*	15) abhi MEDIA QUERIES (FOR SMALL DEVIVES)
 /*---------------------------------------------------*/
 
 @media (max-width: 1400px) {

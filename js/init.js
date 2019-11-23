@@ -383,7 +383,7 @@ function abhi_tm_owl_carousel(){
 		carousel.trigger('next.owl.carousel');
 		return false;
 	});
-	arlo_tm_imgtosvg();
+	abhi_tm_imgtosvg();
 	
 	var carusel2			= jQuery('.abhi_tm_testimonial_wrap .owl-carousel');
   	carusel2.owlCarousel({
@@ -666,7 +666,7 @@ function abhi_tm_switcher(){
 		
 		if(jQuery('.jarallax').length){
 			jQuery('.jarallax').jarallax('destroy');
-			setTimeout(function(){arlo_tm_jarallax();},300);
+			setTimeout(function(){abhi_tm_jarallax();},300);
 		
 		}
 		return false;
